@@ -1,0 +1,9 @@
+{
+    "name": "Quintal",
+    "version": "0.0.1",
+    "description": "Quintal",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    }
+  }
