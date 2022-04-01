@@ -1,9 +1,10 @@
 {
-    "name": "Quintal",
+    "name": "quintal",
     "version": "0.0.1",
     "description": "Quintal",
     "main": "app.js",
+    "type": "module",
     "scripts": {
-        "start": "node app.js"
+        "start": "node server/index.js"
     }
   }
